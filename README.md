@@ -6,7 +6,7 @@ A beginner-friendly Python project where the computer generates a random number,
 ```bash
 python guess.py
 
-📖 Features
+##📖 Features
 
 Random number between 1 and 100
 
